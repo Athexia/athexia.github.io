@@ -1,0 +1,20 @@
+.jumbotron {
+  text-align: center;
+  padding-top: 150px;
+  background-color: #a3a3a3;
+}
+
+.imgBulat {
+  width: 300px;
+}
+
+#projects {
+  background-color: #a3a3a3;
+
+  /* padding-bottom: 2rem; */
+}
+
+section {
+  /* margin-top: -3rem; */
+  padding-top: 5rem;
+}
